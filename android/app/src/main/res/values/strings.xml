@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sprout</string>
+    <string name="accessibility_service_description">Sprout monitors app launches to enforce reading-based screen time limits for YouTube.</string>
+</resources>
